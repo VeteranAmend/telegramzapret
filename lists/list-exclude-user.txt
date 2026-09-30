@@ -1,0 +1,2 @@
+domain.example.abc
+# VeteranAmend/telegramzapret 3f4d7d3b78d1
